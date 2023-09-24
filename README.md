@@ -25,4 +25,4 @@ Play A Sound
 Mute Player
 Player Information List
 --------------------------------------------
-Wiki created by chatdisabled: https://github.com/ChatDisabled/dc-adminmenu/wiki
+
